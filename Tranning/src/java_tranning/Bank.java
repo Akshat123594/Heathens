@@ -24,6 +24,7 @@ public void withdraw(double amount) {
 		Bank obj=new Bank();
 		obj.deposit(500);
 		obj.withdraw(2001);
+		System.out.println("2 git repo");
 
 	}
 
